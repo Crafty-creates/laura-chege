@@ -3,7 +3,9 @@
 I'm Laura Chege, an android developer from Kenya.
 
 . 🔭 I’m currently working on building applications to improve my skill and knowledge in Kotlin.
+
 . 🌱 I’m occasionally learning UI/UX design.
+
 . ⚡ Fun fact: i enjoy solving mathematical quizes/problems.
 
 <!--
