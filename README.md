@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Laura Chege, an android developer from Kenya.
+
+. 🔭 I’m currently working on building applications to improve my skill and knowledge in Kotlin.
+. 🌱 I’m occasionally learning UI/UX design.
+. ⚡ Fun fact: i enjoy solving mathematical quizes/problems.
+
 <!--
 **laura-chege/laura-chege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
