@@ -4,7 +4,7 @@ I'm Laura Chege, an android developer from Kenya.
 
 . 🔭 I’m currently working on building applications to improve my skill and knowledge in Kotlin.
 
-. 🌱 I’m occasionally learning Micrososft technologies: Azure and Power Apps.
+. 🌱 I’m occasionally learning Microsoft technologies: Azure and Power Apps.
 
 . ⚡ Fun fact: i enjoy solving mathematical quizes/problems.
 
