@@ -6,7 +6,7 @@ I'm Laura Chege, an android developer from Kenya.
 
 . 🌱 I’m occasionally learning Microsoft technologies: Azure and Power Apps.
 
-. ⚡ Fun fact: i enjoy solving mathematical quizes/problems.
+. ⚡ Fun fact: I enjoy being out in nature, love adventure.
 
 <!--
 **laura-chege/laura-chege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
