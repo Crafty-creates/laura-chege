@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Laura Chege,from Kenya. I do cloud things and talk about it.
+I'm Laura Chege,from Kenya. I do cloud things and I can't wait to be talking about it.
 
-. 🔭 I’m currently working on the Cloud (Azure and AWS) and Lowcode/Nocode (the Power Platform).
+. 🔭 I’m currently working on the Cloud (Microsoft Azure) and Lowcode/Nocode (the Power Platform).
 
-. 🌱 I’m occasionally learning and improving my skill and knowledge in DevOps. 
+. 🌱 I’m occasionally learning to improve my skill in technical writing as well.
 
 . ⚡ Fun fact: I enjoy being part of tech communities.
 
