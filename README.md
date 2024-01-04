@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Laurah Chege. I do cloud things and quality engineering. 
+I'm Laurah Chege. I do cloud things. 
 
-. 🔭 I’m currently working on ...
+. 🔭 I’m currently working on CI/CD and Infra Automation (focus is in DevOps)...
 
-. 🌱 I’m occasionally learning to improve my skill in public speaking and I can't wait to be talking about the cloud and automation development. 
+. 🌱 I’m occasionally learning on stuff to do with technical writing. 
 
-. ⚡ Fun fact: I enjoy being part of tech communities.
+. ⚡ Fun fact: I enjoy working smart by involving automation in almost everything I do.
 
 . ⚡ Everything is art if you think a little more about it. Crafty-creates sounds cool, no ?
 
