@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Laurah Chege. I do cloud things. 
+I'm Laurah Chege. Talk cloud to me. 
 
-. 🔭 I’m currently working on CI/CD and Infra Automation (focus is on DevOps)...
+. 🔭 CI/CD and Infra Automation ()...
 
 . 🌱 I’m occasionally improving my programming skills with Python and I'm taking my baby steps with GoLang.. 
 
-. ⚡ Fun fact: I enjoy involving automation in almost everything I do (they call it working smart).
+. ⚡ Fun fact: I enjoy involving automation in almost everything I do (they call it working smart, lol).
 
 . ⚡ Everything is art if you think a little more about it. Crafty-creates sounds cool, no ?
 
