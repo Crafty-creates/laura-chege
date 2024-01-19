@@ -2,11 +2,11 @@
 
 I'm Laurah Chege. Talk cloud to me. 
 
-. 🔭 CI/CD and Infra Automation ()...
+. 🔭 ...
 
-. 🌱 I’m occasionally improving my programming skills with Python and I'm taking my baby steps with GoLang.. 
+. 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
-. ⚡ Fun fact: I enjoy involving automation in almost everything I do (they call it working smart, lol).
+. ⚡ Fun fact: ...
 
 . ⚡ Everything is art if you think a little more about it. Crafty-creates sounds cool, no ?
 
