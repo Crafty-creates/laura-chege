@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Laurah Chege. Talk cloud to me. 
+I'm Laura Chege.  
 
-. 🔭 ...
+. 🔭 Currently building on DevOps and Cloud projects (Infrastructure Automation)
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
