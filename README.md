@@ -1,14 +1,17 @@
-### Hi there 👋
+### Hi there👋. 
 
-I'm Laura Chege.  
+I am Laura Chege. I'm passionate about building on infrastructure automation to unleash efficiency, reliablity and innovation. 
 
-. 🔭 Currently building on DevOps and Cloud projects (Infrastructure Automation)
+. 🔭 I'm currently building and working on DevOps and Cloud projects.
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
-. ⚡ Fun fact: ...
+. ⚡ What I bring: 
+- Combines technical expertise with a positive, can-do attitude.
+- Passionate about implementing and launching new projects.
+- Ability to transalate business requirements into technical solutions.
 
-. ⚡ Everything is art if you think a little more about it. Crafty-creates sounds cool, no ?
+
 
 <!--
 **laura-chege/laura-chege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
