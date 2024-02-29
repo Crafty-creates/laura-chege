@@ -1,15 +1,14 @@
-### Hi there👋. 
+### Hi there👋
 
-I am Laura Chege. I'm passionate about building on infrastructure automation to unleash efficiency, reliablity and innovation. 
+I am Laura Chege, a Cloud/DevOps engineer. 
+
+. ⚡ I'm passionate about building on infrastructure automation to unleash efficiency, reliablity and innovation.
 
 . 🔭 I'm currently building and working on DevOps and Cloud projects.
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
-. ⚡ What I bring: 
-- Combines technical expertise with a positive, can-do attitude.
-- Passionate about implementing and launching new projects.
-- Ability to transalate business requirements into technical solutions.
+ 
 
 
 
