@@ -10,6 +10,10 @@ I am Laura Chege, a Cloud/DevOps engineer.
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
+### Articles/Blogposts 
+1. [To containerize or not to containerize](https://www.linkedin.com/pulse/containerize-laura-chege-0xtye/?trackingId=90s9V%2Bw7QaKlb2%2FmDeOKxg%3D%3D)
+2. [The Power of Kubernetes](https://www.linkedin.com/pulse/power-kubernetes-laura-chege-6j3if/?trackingId=SH4VaG8nRdijaHCZdmHSVg%3D%3D)
+ 
 ### I build with... 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,10 +32,6 @@ I am Laura Chege, a Cloud/DevOps engineer.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### Articles/Blogposts 
-1. [To containerize or not to containerize](https://www.linkedin.com/pulse/containerize-laura-chege-0xtye/?trackingId=90s9V%2Bw7QaKlb2%2FmDeOKxg%3D%3D)
-2. [The Power of Kubernetes](https://www.linkedin.com/pulse/power-kubernetes-laura-chege-6j3if/?trackingId=SH4VaG8nRdijaHCZdmHSVg%3D%3D)
- 
 
 
 
