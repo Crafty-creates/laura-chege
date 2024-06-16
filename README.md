@@ -10,12 +10,13 @@ I am Laura Chege, a Cloud/DevOps engineer.
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
-### ⚡ Languages & Tools 
+### I build with... 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -27,10 +28,9 @@ I am Laura Chege, a Cloud/DevOps engineer.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### 📫 Connect with me 
-Find out more about me and feel free to connect with me at:
-
-
+### Articles/Blogposts 
+1. [To containerize or not to containerize](https://www.linkedin.com/pulse/containerize-laura-chege-0xtye/?trackingId=90s9V%2Bw7QaKlb2%2FmDeOKxg%3D%3D)
+2. [The Power of Kubernetes](https://www.linkedin.com/pulse/power-kubernetes-laura-chege-6j3if/?trackingId=SH4VaG8nRdijaHCZdmHSVg%3D%3D)
  
 
 
