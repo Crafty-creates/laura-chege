@@ -4,9 +4,9 @@ I am Laura Chege, a Cloud/DevOps engineer.
 
 . ⚡ I'm passionate about building on infrastructure automation to unleash efficiency, reliablity and innovation.
 
-. 🔭 I'm currently building and working on DevOps and Cloud projects.
+. 🔭 I'm currently building and working on Azure, K8s, Terraform.
 
-. 👯 I’m looking to contribute more on opensource (learn and stay informed about cloud-native tools)
+. 👯 I’m looking to collaborate more on opensource (learn and stay informed about cloud-native tools)
 
 . 🌱 I’m occasionally improving my skills in Python and I'm taking my baby steps with GoLang.
 
